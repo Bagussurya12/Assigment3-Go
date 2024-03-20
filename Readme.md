@@ -6,7 +6,7 @@ Pastikan Anda memiliki lingkungan pengembangan Go yang sudah diatur dan berfungs
 
 ### Langkah 2: Menyimpan Kode
 
-Salin dan tempel kode yang disediakan ke dalam sebuah file Go dengan ekstensi `.go`. Misalnya, `weather.go`.
+Salin dan tempel kode yang disediakan ke dalam sebuah file Go dengan ekstensi `.go`. Misalnya, `main.go`.
 
 ### Langkah 3: Menjalankan Kode
 
@@ -27,5 +27,3 @@ Untuk merefresh halaman dan mendapatkan status cuaca yang diperbarui, cukup klik
 ### Langkah 6: Memantau Konsol
 
 Anda juga dapat memantau konsol atau terminal tempat Anda menjalankan kode Go untuk melihat log yang dihasilkan oleh server web.
-
-Dengan mengikuti langkah-langkah di atas, Anda dapat menjalankan dan menggunakan kode yang disediakan dengan mudah. Semoga panduan ini membantu!
