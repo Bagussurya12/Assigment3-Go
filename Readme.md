@@ -27,3 +27,5 @@ Untuk merefresh halaman dan mendapatkan status cuaca yang diperbarui, cukup klik
 ### Langkah 6: Memantau Konsol
 
 Anda juga dapat memantau konsol atau terminal tempat Anda menjalankan kode Go untuk melihat log yang dihasilkan oleh server web.
+
+### Bagus Surya Indrajati || 1957356840-107
